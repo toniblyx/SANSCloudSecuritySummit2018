@@ -37,39 +37,30 @@ See file __Forensics-as-a-Service-Toni-de-la-Fuente-SanDiego-2018.pptx__ in this
 
 ## All links and tools mentioned during the talk in order of appearance 
 
-* Become an IAM Ninja: [https://youtu.be/Du478i9O_mc]() 
-* [http://threatresponse.cloud/ ]()
-* [https://github.com/capitalone/cloud-custodian]()
-* [https://github.com/awslabs/aws-security-benchmark/tree/master/aws_cis_foundation_framework]()
-* [https://github.com/ThreatResponse/mad-king]() 
-* [https://danielgrzelak.com/backdooring-an-aws-account-da007d36f8f9#.ut0x2bjv5]()
-* [https://github.com/Miserlou/mackenzie]() 
-* Gone in 60 Millisecons (33c3): [https://www.youtube.com/watch?v=YZ058hmLuv0]()
-* [https://github.com/dagrz/aws_pwn ]()
-* Serverless Security [https://www.rsaconference.com/writable/presentations/file_upload/asd-f01_serverless-security-are-you-ready-for-the-future.pdf]()
-* [https://github.com/devsecops/lambhack]() 
-* [https://blyx.com/2016/03/11/forensics-in-aws-an-introduction/]()
-* [https://blyx.com/2016/06/16/cloud-forensics-caine7-on-aws/]()
-* [https://s3-us-west-2.amazonaws.com/threatresponse-static/us-16-Krug-Hardening-AWS-Environments-and-Automating-Incident-Response-for-AWS-Compromises-wp.pdf]() 
-* [https://aws.amazon.com/premiumsupport/trustedadvisor/]()
-* [https://aws.amazon.com/cloudtrail/]()
-* [https://azure.microsoft.com/en-us/resources/videos/azure-operational-insights-overview/]()
-* [https://aws.amazon.com/cloudformation/]()
-* [https://aws.amazon.com/config/]()
-* [https://github.com/Alfresco/prowler]() 
-* [https://github.com/nccgroup/Scout2]()
-* [https://github.com/Netflix/security_monkey]()
-* [https://github.com/Netflix/edda]()
-* [https://github.com/Netflix/Fido]()
-* [https://github.com/capitalone/cloud-custodian]()
-* [https://github.com/awslabs/aws-security-benchmark]()
-* [https://github.com/cloudsploit]()
-* [https://github.com/widdix/aws-cf-templates/tree/master/security#account-password-policy]()
-* [https://github.com/jantman/awslimitchecker]()
-* [https://blogs.msdn.microsoft.com/azuresecurity/2017/01/04/get-hands-on-experience-with-oms-security-with-oms-suite-experience-center/]()
-* [https://github.com/spotify/gcp-audit]()
-* [https://github.com/awslabs/git-secrets]()
-* [hpps://wazuh.com]()
-* [https://aws.amazon.com/macie/]()
-* [https://github.com/andresriancho/nimbostratus]()
-
+* https://github.com/dagrz/aws_pwn
+* Serverless Security https://www.rsaconference.com/writable/presentations/file_upload/asd-f01_serverless-security-are-you-ready-for-the-future.pdf
+* https://github.com/devsecops/lambhack
+* https://blyx.com/2016/03/11/forensics-in-aws-an-introduction/
+* https://blyx.com/2016/06/16/cloud-forensics-caine7-on-aws/
+* https://s3-us-west-2.amazonaws.com/threatresponse-static/us-16-Krug-Hardening-AWS-Environments-and-Automating-Incident-Response-for-AWS-Compromises-wp.pdf
+* https://aws.amazon.com/premiumsupport/trustedadvisor/
+* https://aws.amazon.com/cloudtrail/
+* https://azure.microsoft.com/en-us/resources/videos/azure-operational-insights-overview/
+* https://aws.amazon.com/cloudformation/
+* https://aws.amazon.com/config/
+* https://github.com/Alfresco/prowler
+* https://github.com/nccgroup/Scout2
+* https://github.com/Netflix/security_monkey
+* https://github.com/Netflix/edda
+* https://github.com/Netflix/Fido
+* https://github.com/capitalone/cloud-custodian
+* https://github.com/awslabs/aws-security-benchmark
+* https://github.com/cloudsploit
+* https://github.com/widdix/aws-cf-templates/tree/master/security#account-password-policy
+* https://github.com/jantman/awslimitchecker
+* https://blogs.msdn.microsoft.com/azuresecurity/2017/01/04/get-hands-on-experience-with-oms-security-with-oms-suite-experience-center/
+* https://github.com/spotify/gcp-audit
+* https://github.com/awslabs/git-secrets
+* https://wazuh.com 
+* https://aws.amazon.com/macie/
+* https://github.com/andresriancho/nimbostratus
