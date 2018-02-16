@@ -35,7 +35,7 @@ See file __Forensics-as-a-Service-Toni-de-la-Fuente-SanDiego-2018.pptx__ in this
 * ```./prowler```
 * show securitymonkey
 
-## All links and tools mentioned during the talk in order of appearance 
+## All links and tools mentioned during the talk 
 
 * https://github.com/dagrz/aws_pwn
 * Serverless Security https://www.rsaconference.com/writable/presentations/file_upload/asd-f01_serverless-security-are-you-ready-for-the-future.pdf
