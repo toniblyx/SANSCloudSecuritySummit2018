@@ -19,11 +19,12 @@ See file __Forensics-as-a-Service-Toni-de-la-Fuente-SanDiego-2018.pptx__ in this
 
 [Demo Video key compromise](https://www.youtube.com/watch?v=-OY0L4BMyLY)
 
-
-* ```aws_ir key-compromise --access-key-id AKIAJTEST```
-* ```aws_ir instance-compromise --instance-ip IP --user centos --ssh-key ~/key-toplay.pem --repository-url https://threatresponse-lime-modules.s3.amazonaws.com```
+* ```aws_ir --bucket-name ir-caseXXXXX --examiner-cidr-range IP.AD.DR.ES/S instance-compromise \
+  --target i-12345678901234 --user ubuntu --ssh-key ~/key-toplay.pem \
+  --plugins gather_host,snapshotdisks_host,tag_host,examineracl_host,get_memory,isolate_host,stop_host```
 * ```volatility -f IP-2017-02-23T02\:15\:48-mem.lime imageinfo```
 * ```volatility -f IP-2017-02-23T02\:15\:48-mem.lime --profile=Ubuntu14043 linux_pslist```
+* ```aws_ir key-compromise --access-key-id AKIAJTEST```
 
 4- Hardening template, SecurityMonkey 
 
@@ -64,3 +65,11 @@ See file __Forensics-as-a-Service-Toni-de-la-Fuente-SanDiego-2018.pptx__ in this
 * https://wazuh.com 
 * https://aws.amazon.com/macie/
 * https://github.com/andresriancho/nimbostratus
+* https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/log-analytics/log-analytics-overview.md
+* https://azure.microsoft.com/en-us/resources/videos/azure-operational-insights-overview/
+* https://github.com/mwrlabs/Azurite
+* https://github.com/azsdk/azsdk-docs
+* https://github.com/Azure/AzureStack-Tools
+* https://www.sans.org/reading-room/whitepapers/cloud/digital-forensic-analysis-amazon-linux-ec2-instances-38235
+
+
